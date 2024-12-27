@@ -71,7 +71,7 @@ while not done:
     screen.fill(white)
 
     # ALL CODE TO DRAW SHOULD GO BELOW THIS COMMENT
-    fractal_level = 3
+    fractal_level = 1
     recursive_draw(0, 0, 700, 700, fractal_level)
     # ALL CODE TO DRAW SHOULD GO ABOVE THIS COMMENT
 

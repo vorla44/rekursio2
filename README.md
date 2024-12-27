@@ -11,3 +11,5 @@ Lasketaan kertoma rekursiivisesti ja tulostetaan välivaiheet
 ### recursive rectangles
 
 ### fraktaali hakaset
+Ensin piirretään peruskuvio ja sitten jokaiseen nurkkaan piirretään samanlainen mutta pienempi
+
