@@ -9,3 +9,5 @@ Kun ohjelma kutsuu itseään, kyseessä on rekursiivinen ohjelma
 Lasketaan kertoma rekursiivisesti ja tulostetaan välivaiheet 
 
 ### recursive rectangles
+
+### fraktaali hakaset
