@@ -13,5 +13,5 @@ Lasketaan kertoma rekursiivisesti ja tulostetaan välivaiheet
 ### fraktaali hakaset
 Ensin piirretään peruskuvio ja sitten jokaiseen nurkkaan piirretään samanlainen mutta pienempi
 
-### arcade netissä - rekursio 
-Arcaden uusimman version mukaan
+### arcade netissä - kokonaan ja 2023 rekursio 
+Arcaden 2017 ja 2023 version käyttö 
